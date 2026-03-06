@@ -215,6 +215,7 @@ nmap -sV -p1-1000 192.168.12.100
 - Scan de versão (-sV) – O que foi usado:
 
 Estabelece conexão completa com o serviço
+
 Envia probes para extrair banner (versão)
 
 ##
