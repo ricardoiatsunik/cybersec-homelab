@@ -27,9 +27,12 @@ O ambiente integra:
 
 • Host: Windows  
 • WSL2 - ambiente ofensivo
+
 • VMware Workstation Pro
+
 • Wazuh Server (Ubuntu 24.04)  
 • NAT
+
 • Host-only - rede interna isolada  
 • Metasploitable 3 (ub1404) – alvo
 
@@ -67,7 +70,8 @@ O ambiente integra:
 - 4+ núcleos de CPU  
 - SSD
 </details>
----
+
+##
 
 ## Deploy do Ambiente
 
