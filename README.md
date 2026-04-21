@@ -270,14 +270,7 @@ sudo systemctl restart wazuh-manager
 
 ---
 
-⚠️ Projeto pausado no momento.
-
-## Metas
-
-- Integração da VM Windows (win2k8)
-- Implementação de alertas baseados em MITRE ATT&CK
-- Simulação de resposta a incidente
-- Criação de playbooks SOC
+⚠️ Projeto pausado.
 
 ---
 
