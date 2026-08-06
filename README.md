@@ -75,8 +75,10 @@ O ambiente integra:
 - SSD
 </details>
 
-##
 
+<details>
+<summary><h2><b>Clique aqui para informações de instalação</b></h2></summary>
+  
 ## Deploy do Ambiente
 
 ### Configuração de Rede no VMware
@@ -187,19 +189,7 @@ Verificação:
 ```bash
 sudo tail -f /var/ossec/logs/ossec.log
 ```
-
----
-
-## Metodologia
-
-1. Reconhecimento de superfície  
-2. Enumeração de serviços  
-3. Ataques de autenticação  
-4. Exploração remota  
-5. Pós-exploração  
-6. Análise de logs  
-7. Criação de regras de detecção  
-8. Documentação técnica
+</details>
 
 ---
 
