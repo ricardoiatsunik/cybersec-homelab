@@ -73,6 +73,9 @@ The environment integrates:
 
 ##
 
+<details>
+<summary><h2><b>Click here for deployment details</b></h2></summary>
+
 ## Environment Deployment
 
 ### VMware Network Configuration
@@ -183,19 +186,7 @@ Verification:
 ```bash
 sudo tail -f /var/ossec/logs/ossec.log
 ```
-
----
-
-## Methodology
-
-1. Surface reconnaissance  
-2. Service enumeration  
-3. Authentication attacks  
-4. Remote exploitation  
-5. Post-exploitation  
-6. Log analysis  
-7. Detection rule creation  
-8. Technical documentation  
+</details>
 
 ---
 
