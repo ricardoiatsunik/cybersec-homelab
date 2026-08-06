@@ -195,7 +195,7 @@ sudo tail -f /var/ossec/logs/ossec.log
 
 ## Enumeração com Nmap
 
-No papel de um analista SOC, é importante reconhecer os sinais de cada tipo de scan:
+No papel de um analista de cibersegurança é importante reconhecer os sinais de cada tipo de scan:
 
 - SYN scan (-sS) Conexões incompletas, muitos SYN_RECV
 - Scan de versão (-sV) Conexões estabelecidas com banners
