@@ -21,13 +21,13 @@ O ambiente integra:
 - Entender a geração de logs em diferentes serviços
 - Analisar como um SIEM correlaciona eventos
 - Criar regras customizadas de detecção
-- Simular perspectiva de SOC
+- Simular perspectiva defensiva
 - Elaborar documentação técnica
 
 ---
 
 <details>
-<summary><h2><b>Clique aqui para ver a arquitetura</b></h2></summary>
+<summary><h2><b>Clique aqui para informações da arquitetura</b></h2></summary>
 
 • Host: Windows  
 • WSL2 - ambiente ofensivo
